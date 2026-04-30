@@ -1,9 +1,9 @@
-import creational.Singleton;
-import creational.Factory;
-import creational.FactoryMethod;
-import creational.AbstractFactory;
-import creational.Builder;
-import creational.Prototype;
+import creational.Singleton.Singleton;
+import creational.Factory.Factory;
+import creational.FactoryMethod.FactoryMethod;
+import creational.AbstractFactory.AbstractFactory;
+import creational.Builder.Builder;
+import creational.Prototype.Prototype;
 
 public class Main {
     public static void main(String[] args) {
